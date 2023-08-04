@@ -1,0 +1,48 @@
+body{
+    font-size: 150%;
+    text-align: 'left';
+}
+.main{
+    margin-bottom: 5%;
+    margin-left: 12%;
+    font-family: 'Calibri', 'Trebuchet MS', 'sans-serif';
+}
+.main h2{
+    font-family: 'Calibri', 'Trebuchet MS', 'sans-serif';
+}
+
+.main td {
+    width: 400px;
+    height: 140px;
+    font-size: 150%;
+    border: 1px solid rgba(170, 169, 169, 0.867);
+    border-radius: 4px;
+    text-align: left;
+    padding-right: 20;
+    padding: 10px;
+}
+.main td div p img{
+    vertical-align:middle;
+    padding-right: 30;
+    padding-left: 20;
+}
+.main td div .s{
+    border:unset;
+    width: 350;
+    height: 100;
+    padding-left: 150;
+    color: rgb(103, 69, 28);
+}
+.main td div .i{
+    border:unset;
+    width: 200;
+    height: 20; 
+    margin-top: 13px;
+    margin-left: 8px;
+}
+.main td:hover{
+    background-color: rgba(230, 230, 230, 0.84);
+}
+table{
+    border-spacing: 20px;
+}

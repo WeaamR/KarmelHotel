@@ -1,0 +1,15 @@
+.main{
+    margin-left: 26%;
+    font-family: "Gill Sans",Arial, sans-serif;
+}
+h2{
+    font-family: "Gill Sans",Arial, sans-serif;
+    padding-top: 5%;
+    padding-bottom: 0.5%;
+}
+.ved{
+    width: 60%;
+    height: 50%;
+    margin-left: 5%;
+    border: solid;
+}

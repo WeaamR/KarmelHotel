@@ -1,0 +1,53 @@
+table{
+    border : solid black;
+    background:rgb(255, 255, 255);
+    border-radius: 7px;
+    border-spacing: 0px;
+}
+td,th{
+    padding: 10px 10px 10px 10px;
+    letter-spacing: 0.1em;
+    font-size: 110%;
+    border: 1px solid black;
+    text-align: center;
+    font-weight:bolder;
+}
+.txtpart{
+    margin-top: 50;
+    margin-left: 60;
+    width: fit-content;
+    height: fit-content;
+    padding: 7px 10px 10px 10px;
+    font-size:150%;
+    font-family:'Gill Sans MT';
+}
+.tabpart{
+    width: fit-content;
+    height: fit-content;
+    padding: 7px 10px 10px 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+table.head th {
+    color: rgb(0, 0, 0);
+    background-color: rgba(252, 199, 85, 0.683);
+    text-align: center;
+    letter-spacing: 0.15em;
+}
+table tr{
+    background-color: rgba(255, 190, 50, 0.338);
+}
+li{
+    line-height: 1.6em;
+}
+.main{
+    width: 100%;
+    height: fit-content;
+}
+form{
+    margin-left: 600px;
+    margin-top: -370px;
+}
+p{
+    font-size: 120%;
+    font-weight: bolder;
+}

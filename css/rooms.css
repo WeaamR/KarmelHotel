@@ -1,0 +1,37 @@
+body{
+    font-size: 150%;
+    text-align: 'left';
+}
+.main{
+    top: 5px;
+    margin: 50px;
+    margin-left: 25%;
+    font-size:larger;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+}
+p{
+    font-size: larger;
+}
+.main tr td img{
+    width: 344px;
+    height: 229px;
+    transition: width 0.5s, height 0.5s;
+}
+.main tr td img:hover{
+    width: 350px;
+    height: 235px;
+}
+
+.part{
+    border-width: 2px;
+    padding: 10px;
+    border-color: rgb(32, 32, 32);
+}
+.main td{
+    padding: 10px 10px 10px 10px;
+    letter-spacing: 0.1em;
+    font-size: 90%;
+    border: 1px solid rgba(170, 169, 169, 0.867);
+    border-radius: 4px;
+    text-align: left;
+}
